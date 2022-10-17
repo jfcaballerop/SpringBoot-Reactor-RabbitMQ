@@ -1,4 +1,4 @@
-package com.github.jaymorelli96.sender.services;
+package com.github.jfcaballerop.sender.services;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

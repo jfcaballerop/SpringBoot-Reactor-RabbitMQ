@@ -1,6 +1,6 @@
-package com.github.jaymorelli96.sender;
+package com.github.jfcaballerop.sender;
 
-import com.github.jaymorelli96.sender.services.senderService;
+import com.github.jfcaballerop.sender.services.senderService;
 import com.rabbitmq.client.Connection;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

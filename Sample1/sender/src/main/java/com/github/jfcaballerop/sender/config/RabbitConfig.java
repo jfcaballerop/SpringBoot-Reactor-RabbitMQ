@@ -1,4 +1,4 @@
-package com.github.jaymorelli96.sender.config;
+package com.github.jfcaballerop.sender.config;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
