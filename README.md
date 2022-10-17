@@ -1,4 +1,4 @@
-# Project Reactor - RabbitMQ - Samples
+# Spring Boot - Reactor - RabbitMQ - Samples
 
 "Reactor RabbitMQ API enables messages to be published to RabbitMQ and consumed from RabbitMQ using functional APIs with non-blocking back-pressure and very low overheads."
 
