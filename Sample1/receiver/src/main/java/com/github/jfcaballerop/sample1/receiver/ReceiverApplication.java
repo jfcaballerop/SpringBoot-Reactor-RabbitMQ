@@ -1,4 +1,4 @@
-package com.github.jaymorelli96.sample1.receiver;
+package com.github.jfcaballerop.sample1.receiver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -58,7 +58,7 @@ public class ReceiverApplication {
             CountDownLatch latch = new CountDownLatch(messageCount);
 
 			//Consume messages from the queue
-            Disposable disposable = receiver.consumeNoAck("demo-queue").subscribe(m -> {
+            Disposable disposable = receiver.consumeNoAck("demo-queue-service").subscribe(m -> {
                 LOGGER.info("Received message {}", new String(m.getBody()));
                 latch.countDown();
             });

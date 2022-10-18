@@ -1,4 +1,4 @@
-package com.github.jaymorelli96.sample1.receiver.config;
+package com.github.jfcaballerop.sample1.receiver.config;
 
 
 import com.rabbitmq.client.Connection;

@@ -1,4 +1,4 @@
-package com.github.jaymorelli96.receiver;
+package com.github.jfcaballerop.sample1.receiver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
